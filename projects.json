@@ -17,8 +17,8 @@
         "description": "This is the backend of the grocery store unedl project.", 
         "stack": ["fa-brands fa-node", "fab fa-js", "fa-solid fa-database"], 
         "links": {
-            "github": "https://github.com/ramedina98/abarrotes_UNEDL.github.io",
-            "page": "https://abarrotes-unedl.onrender.com/"
+            "github": "https://github.com/ramedina98/backend_grocery_store",
+            "page": "https://grocery-store-unedl4.onrender.com/"
         }
     },
     {

@@ -49,8 +49,8 @@
         "name": "Privacy", 
         "items": [
             "If you are applying for a vacancy",
-            "If you are applying for a card",
-            "If you already have the card",
+            "If you are applying for a scholarship",
+            "If you already have the scholarship",
             "If your identity is stolen",
             "If you provide a service"
         ]
@@ -70,7 +70,12 @@
         "items": [
             "Brazil",
             "Colombia",
-            "Argentina"
+            "Argentina", 
+            "Uruguay", 
+            "Chile", 
+            "Italia",
+            "EE.UU",
+            "Japan"
         ]
     }
 ]

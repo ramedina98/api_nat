@@ -5,7 +5,7 @@
         "img": "https://i.ibb.co/YtnvMg7/Captura-de-pantalla-2024-01-10-a-la-s-18-05-44.png", 
         "name": "Where in the world?", 
         "description": "This project, developed with React and TypeScript using Vite, uses the Rest Countries API to provide essential information about countries around the world.", 
-        "stack": ["fab fa-react", "bx bxl-typescript", "fab fa-tailwind"], 
+        "stack": ["fab fa-react", "bx bxl-typescript", "bx bxl-tailwind-css"], 
         "links": {
             "github": "https://github.com/ramedina98/rest_countries_api",
             "page": "https://ramedina98.github.io/rest_countries_api/"

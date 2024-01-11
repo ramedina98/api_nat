@@ -1,28 +1,18 @@
 [
+
     {
         "id": 1, 
-        "img": "https://i.ibb.co/BgsHcz4/abarrotes-unedl.png", 
-        "name": "frontend grocery store unedl", 
-        "description": "Online store of a grocery store. This is the Frontend of the grocery store UNEDL project, it is a SPA.", 
-        "stack": ["fab fa-html5", "fab fa-css3-alt", "fab fa-js", "fa-brands fa-node", "fas fa-bold"], 
+        "img": "https://i.ibb.co/YtnvMg7/Captura-de-pantalla-2024-01-10-a-la-s-18-05-44.png", 
+        "name": "Where in the world?", 
+        "description": "This project, developed with React and TypeScript using Vite, uses the Rest Countries API to provide essential information about countries around the world.", 
+        "stack": ["fab fa-react", "bx bxl-typescript", "fab fa-tailwind"], 
         "links": {
-            "github": "https://github.com/ramedina98/abarrotes_UNEDL.github.io",
-            "page": "https://abarrotes-unedl.onrender.com/"
+            "github": "https://github.com/ramedina98/rest_countries_api",
+            "page": "https://ramedina98.github.io/rest_countries_api/"
         }
     },
     {
         "id": 2, 
-        "img": "https://t4.ftcdn.net/jpg/02/99/62/11/360_F_299621124_vutDKbNwRJG6poJRQQIMYfsc4tJCTO5E.jpg", 
-        "name": "backend grocery store unedl", 
-        "description": "This is the backend of the grocery store unedl project.", 
-        "stack": ["fa-brands fa-node", "fab fa-js", "fa-solid fa-database"], 
-        "links": {
-            "github": "https://github.com/ramedina98/backend_grocery_store",
-            "page": "https://grocery-store-unedl4.onrender.com/"
-        }
-    },
-    {
-        "id": 3, 
         "img": "https://i.ibb.co/ydmxrdv/paymentcar.jpg", 
         "name": "method of payment", 
         "description": "Frontend Mentor challenge. Page to make payments, this only contains the frontend part.", 
@@ -33,7 +23,29 @@
         }
     },
     {
+        "id": 3, 
+        "img": "https://i.ibb.co/BgsHcz4/abarrotes-unedl.png", 
+        "name": "frontend grocery store unedl", 
+        "description": "Online store of a grocery store. This is the Frontend of the grocery store UNEDL project, it is a SPA.", 
+        "stack": ["fab fa-html5", "fab fa-css3-alt", "fab fa-js", "fa-brands fa-node", "fas fa-bold"], 
+        "links": {
+            "github": "https://github.com/ramedina98/abarrotes_UNEDL.github.io",
+            "page": "https://abarrotes-unedl.onrender.com/"
+        }
+    },
+    {
         "id": 4, 
+        "img": "https://t4.ftcdn.net/jpg/02/99/62/11/360_F_299621124_vutDKbNwRJG6poJRQQIMYfsc4tJCTO5E.jpg", 
+        "name": "backend grocery store unedl", 
+        "description": "This is the backend of the grocery store unedl project.", 
+        "stack": ["fa-brands fa-node", "fab fa-js", "fa-solid fa-database"], 
+        "links": {
+            "github": "https://github.com/ramedina98/backend_grocery_store",
+            "page": "https://grocery-store-unedl4.onrender.com/"
+        }
+    },
+    {
+        "id": 5, 
         "img": "https://i.ibb.co/YZbQrLf/ecomnerce.jpg", 
         "name": "e-commerce", 
         "description": "Frontend Mentor challeng, which consisted in making the frontend part of an e-commerce page.", 
@@ -44,7 +56,7 @@
         }
     },
     {
-        "id": 5, 
+        "id": 6, 
         "img": "https://i.ibb.co/wCvFMk7/calculator.jpg", 
         "name": "tips calculator", 
         "description": "This web helpes us calculate tips.", 
@@ -55,7 +67,7 @@
         }
     },
     {
-        "id": 6, 
+        "id": 7, 
         "img": "https://i.ibb.co/R606ZP0/articulo.jpg", 
         "name": "article", 
         "description": "This project is inspired by the articles that nat geo publishes on its website.", 
